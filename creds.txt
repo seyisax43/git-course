@@ -1,2 +1,0 @@
-username = seyi
-password = sy1
